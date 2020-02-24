@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Yoshiki 
+ * Feburuary 24/2020
+ * This code illustrates the rounding error for math method 
  */
 
 package roundingerror.java;
